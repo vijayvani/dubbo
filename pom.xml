@@ -130,6 +130,7 @@
 	<sonar.projectKey>vijayvani_dubbo</sonar.projectKey>
         <sonar.organization>vijayvani-github</sonar.organization>
 	<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+
 </properties>
 
     <modules>
